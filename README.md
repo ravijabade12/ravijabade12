@@ -1,5 +1,26 @@
-# 💫 About Me:
-I'm a Frontend Software Engineer (SDE-1) who enjoys building products and helping developers grow in tech.<br><br>Currently, I work at TripFactory, building scalable web applications using Next.js and React to solve real-world problems in the travel tech industry.<br><br>Before this, I worked as a Frontend Developer at Xeroscape, where I developed responsive React applications, improved performance with modern frontend optimization techniques, and collaborated closely with designers and backend teams to ship production-ready features.<br><br>Alongside my engineering work, I’m passionate about sharing knowledge and helping people break into tech.<br><br>I actively share:<br>• Tech news and industry updates<br>• AI developments and useful AI tools<br>• Hiring opportunities and tech events<br>• Resume tips and LinkedIn optimization<br>• Practical software engineering insights<br><br>I also run a developer community where I regularly share hiring updates, career guidance, and resources to help students and developers land tech jobs. I'm currently planning webinars focused on resumes, LinkedIn growth, and navigating tech careers.<br><br>I enjoy building products as well. Some projects I’ve worked on include:<br>• Creator Planner – an AI-powered SaaS for content creators with AI-assisted content generation and workflow management<br>• ArtisanCanvas – a full-stack portfolio platform for artists with commission workflows and admin dashboards<br><br>My main tech stack includes:<br>React • Next.js • TypeScript • React Native • Supabase • Tailwind • Node.js<br><br>My goal is simple:<br>Build great products and help more people grow in the tech industry.<br><br>If you're interested in tech, AI, software engineering, or career growth in tech, feel free to connect.
+## 👨‍💻 About Me
+
+Hi, I'm **Ravi S** — a **Frontend Engineer** with **2+ years of experience** building scalable web & mobile applications using **React.js, Next.js, TypeScript, and React Native**.
+
+Currently working at **TripFactory**, building production-grade travel-tech products, scalable frontend systems, and high-performance user experiences.
+
+💡 I enjoy building products that solve real-world problems with a strong focus on:
+
+* ⚡ Frontend Performance Optimization
+* 🧩 Reusable UI Architecture
+* 📱 Web & Mobile Experiences
+* 🚀 Scalable Frontend Systems
+* 🎯 Clean, Maintainable Code
+
+### 🛠 Tech I Work With
+
+**React.js • Next.js • TypeScript • React Native • Redux Toolkit • Tailwind CSS • Node.js • Supabase**
+
+Outside coding, I enjoy helping developers through tech communities, sharing learnings, and building side projects.
+
+📫 **Let's connect & build something impactful!**
+
+
 
 
 ## 🌐 Socials:
